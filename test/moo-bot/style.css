@@ -1,0 +1,76 @@
+.title1 {
+    position:relative;
+    color: #c0e0e3;
+    left: 1.5%;
+    max-width: 98.5%;
+    font-size:30px;
+    font-family: 'verdana2';
+    font-weight: bold;
+    line-height:1;
+    overflow: hidden;
+}
+.title2 {
+    position:relative;
+    color: #eaf5f6;
+    left: 0.26%;
+    max-width: 99.74%;
+    font-size:40px;
+    font-family: 'verdana2';
+    font-weight: bold;
+    line-height:1;
+    overflow: hidden;
+    white-space: pre-wrap;
+}
+.desc1 {
+    position:relative;
+    color: #99ccd1;
+    left: 3%;
+    max-width: 97%;
+    font-size:20px;
+    font-family: 'verdana2';
+    line-height:1.35;
+    overflow: hidden;
+}
+.desc2 {
+    position:relative;
+    color: #64b7be;
+    left: 3.6%;
+    max-width: 96.4%;
+    font-size:18px;
+    font-family: 'verdana2';
+    line-height:1.35;
+    overflow: hidden;
+}
+.code1 {
+    position:relative;
+    color: #99ccd1;
+    left: 3.1%;
+    max-width: 96.9%;
+    font-size:15px;
+    font-family: 'consolas';
+    outline: 2px solid #74a1a5;
+    background-color:#060814;
+    line-height:0.95;
+    display:inline;
+    overflow: hidden;
+    white-space: pre-wrap;
+}
+.heavy1 {
+    color: #ebfdff;
+    left: 3.1%;
+    max-width: 96.9%;
+    font-size:20px;
+    font-family: 'verdana2';
+    font-weight: bold;
+    line-height:1.35;
+    overflow: hidden;
+}
+
+@font-face {
+    font-family: 'Upheaval TT (BRK)';
+    src: url('/test/upheavtt.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'verdana2';
+    src: url('/test/verdana.ttf') format('truetype');
+}
